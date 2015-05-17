@@ -1,4 +1,8 @@
-// JNA Example #5: Modify Struct in C
+// Projeto : JNA Example #5
+// Classe : Example5.java
+// Função : Modify Struct in C
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
+// Data : Dom, Mai 10 2015 13:53:47 BRT
 
 import com.sun.jna.Library;
 import com.sun.jna.Native;

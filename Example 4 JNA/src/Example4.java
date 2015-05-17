@@ -1,4 +1,8 @@
-// Example #4: Get a Struct from C (By Value)
+// Projeto : JNA Example #4
+// Classe : Example4.java
+// Função : Get a Struct from C (By Value)
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
+// Data : Dom, Mai 10 2015 03:28:33 BRT
 
 import com.sun.jna.Library;
 import com.sun.jna.Native;

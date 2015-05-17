@@ -1,4 +1,8 @@
-// JNA Example #6: Send an Array of Structs to C
+// Projeto : JNA Example #6
+// Classe : Example6.java
+// Função : Send an Array of Structs to C
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
+// Data : Dom, Mai 10 2015 18:08:06 BRT
 
 import com.sun.jna.Library;
 import com.sun.jna.Native;

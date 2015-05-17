@@ -1,7 +1,7 @@
 // Projeto : JNA Example #9
 // Algoritmo: example9.c
 // Função : Receive an Array of Doubles from C
-// Autor(es) : Hugo Dionizio Santos
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
 // Data : Seg Mai 11 11:05:54 BRT 2015
 
 #include <stdlib.h>

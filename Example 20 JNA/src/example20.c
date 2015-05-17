@@ -1,7 +1,7 @@
 // Projeto : JNA Example #20
 // Algoritmo: example20.c
 // Função : : Send an array of unions to C
-// Autor(es) : Hugo Dionizio Santos
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
 // Data : Sáb Mai 16 16:27:45 BRT 2015
 
 #include <stdio.h>

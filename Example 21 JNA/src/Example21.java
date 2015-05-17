@@ -1,7 +1,7 @@
 // Projeto : JNA Example #21
 // Classe: Example21.java
 // Função : : Receive an array of unions from C
-// Autor(es) : Hugo Dionizio Santos
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
 // Data : Sáb Mai 16 16:27:45 BRT 2015
 
 import com.sun.jna.Library;

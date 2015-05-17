@@ -1,7 +1,7 @@
 // Projeto : JNA Example #14
 // Classe: Example14.java
 // Função : : Receive a Struct Containing an Array of Strings from C
-// Autor(es) : Hugo Dionizio Santos
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
 // Data : Sáb Mai 16 16:27:44 BRT 2015
 
 import com.sun.jna.Library;

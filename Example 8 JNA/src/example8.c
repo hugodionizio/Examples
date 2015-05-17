@@ -1,7 +1,7 @@
 // Projeto : JNA Example #8
 // Algoritmo: example8.c
 // Função : Send an Array of Doubles to C
-// Autor(es) : Hugo Dionizio Santos
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
 // Data : Seg Mai 11 09:58:36 BRT 2015
 
 // Seção de Variáveis Globais

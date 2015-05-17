@@ -1,7 +1,7 @@
 // Projeto : JNA Example #12
 // Algoritmo: example12.c
 // Função : : Retrieve a Struct Containing an String from C
-// Autor(es) : Hugo Dionizio Santos
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
 // Data : Sáb Mai 16 09:34:01 BRT 2015
 
 #include <stdlib.h>

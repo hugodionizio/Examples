@@ -1,4 +1,8 @@
-// JNA Example #6: Send an Array of Structs to C
+// Projeto : JNA Example #6
+// Algoritmo : Example6.c
+// Função : Send an Array of Structs to C
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
+// Data : Dom, Mai 10 2015 18:08:06 BRT
 
 typedef struct Example6Struct {
 	int val;

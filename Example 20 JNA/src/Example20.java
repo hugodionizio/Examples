@@ -1,7 +1,7 @@
 // Projeto : JNA Example #20
 // Classe: Example20.java
 // Função : : Send an array of unions to C
-// Autor(es) : Hugo Dionizio Santos
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
 // Data : Sáb Mai 16 16:27:45 BRT 2015
 
 import com.sun.jna.Library;

@@ -1,7 +1,7 @@
 // Projeto : JNA Example #14
 // Algoritmo: example14.c
 // Função : : Receive a Struct Containing an Array of Strings from C
-// Autor(es) : Hugo Dionizio Santos
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
 // Data : Sáb Mai 16 16:27:44 BRT 2015
 
 #include <stdlib.h>

@@ -1,4 +1,8 @@
-// Example #2: Send a String to C, Receive a String from C
+// Projeto : JNA Example #2
+// Algoritmo : Example2.c
+// Função : Send a String to C, Receive a String from C
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
+// Data : Sáb, Mai  9 2015 08:55:37 BRT
 
 #include <stdio.h>
 #include <stdlib.h>

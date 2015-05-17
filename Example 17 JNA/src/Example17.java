@@ -1,7 +1,7 @@
 // Projeto : JNA Example #17
 // Classe: Example17.java
 // Função : : Send a ragged multidimensional array of strings to C
-// Autor(es) : Hugo Dionizio Santos
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
 // Data : Sáb Mai 16 16:27:45 BRT 2015
 
 import com.sun.jna.Library;

@@ -1,7 +1,7 @@
 // Projeto : JNA Example #7
 // Classe : Example7.java
 // Função : Retrieve an Array of Structs from C
-// Autor(es) : Hugo Dionizio Santos
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
 // Data : Dom 10 Mai 2015 20:45:07 BRT 
 
 import com.sun.jna.Library;

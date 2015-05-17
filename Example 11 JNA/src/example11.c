@@ -1,7 +1,7 @@
 // Projeto : JNA Example #11
 // Algoritmo: example11.c
 // Função : : Retrieve a Struct Containing an Array of Doubles from C
-// Autor(es) : Hugo Dionizio Santos
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
 // Data : Seg Mai 11 15:29:20 BRT 2015
 
 #include <stdlib.h>

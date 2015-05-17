@@ -1,4 +1,8 @@
-// Example #3: Send a Struct to C (By Reference)
+// Projeto : JNA Example #3
+// Classe : Example3.java
+// Função : Send a Struct to C (By Reference)
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
+// Data : Sáb, Mai  9 2015 23:13:24 BRT
 
 import com.sun.jna.Library;
 import com.sun.jna.Native;
