@@ -1,8 +1,8 @@
 // Projeto : JNA Example #7
 // Algoritmo : example7.c
 // Função : Retrieve an Array of Structs from C
-// Autor(es) : 
-// Data : 
+// Autor(es) : Hugo Dionizio Santos (adaptações e correções), Ethan Shayne in http://www.eshayne.com/jnaex
+// Data : Dom 10 Mai 2015 20:45:07 BRT
 
 #include <stdio.h>
 #include <stdlib.h>
