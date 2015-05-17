@@ -15,7 +15,7 @@ rm jna.jar
 cd ..
 
 # Compilação do projeto em Java
-javac -classpath src/jna.jar src/Example2.java -d bin/
+javac -encoding UTF-8 -classpath src/jna.jar src/Example2.java -d bin/
 cp -r src/META-INF bin/META-INF
 cd bin
 jar cvfm Example2.jar META-INF/MANIFEST.MF Example2.class Example2\$Example2.class com libexample2.so
